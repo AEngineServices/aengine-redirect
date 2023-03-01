@@ -10,7 +10,7 @@
   "name": "Interstellar",
   "version": "1.0.0",
   "description": "Interstellar V4",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
